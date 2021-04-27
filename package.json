@@ -1,0 +1,8 @@
+{
+  "name": "ExpressPractice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mssbase/ExpressPractice.git",
+  "author": "Michal S <michalsienczuk@gmail.com>",
+  "license": "MIT"
+}
